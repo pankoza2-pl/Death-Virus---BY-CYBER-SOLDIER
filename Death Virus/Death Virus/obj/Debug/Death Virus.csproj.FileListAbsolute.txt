@@ -1,0 +1,13 @@
+C:\Users\Worm\source\repos\Death Virus\Death Virus\bin\Debug\Death Virus.exe
+C:\Users\Worm\source\repos\Death Virus\Death Virus\bin\Debug\Death Virus.pdb
+C:\Users\Worm\source\repos\Death Virus\Death Virus\bin\Debug\Interop.WMPLib.dll
+C:\Users\Worm\source\repos\Death Virus\Death Virus\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Worm\source\repos\Death Virus\Death Virus\obj\Debug\Interop.WMPLib.dll
+C:\Users\Worm\source\repos\Death Virus\Death Virus\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Worm\source\repos\Death Virus\Death Virus\obj\Debug\Death Virus.csproj.ResolveComReference.cache
+C:\Users\Worm\source\repos\Death Virus\Death Virus\obj\Debug\Death_Virus.Death_Virus.resources
+C:\Users\Worm\source\repos\Death Virus\Death Virus\obj\Debug\Death_Virus.Properties.Resources.resources
+C:\Users\Worm\source\repos\Death Virus\Death Virus\obj\Debug\Death Virus.csproj.GenerateResource.cache
+C:\Users\Worm\source\repos\Death Virus\Death Virus\obj\Debug\Death Virus.csproj.CoreCompileInputs.cache
+C:\Users\Worm\source\repos\Death Virus\Death Virus\obj\Debug\Death Virus.exe
+C:\Users\Worm\source\repos\Death Virus\Death Virus\obj\Debug\Death Virus.pdb
